@@ -1,0 +1,23 @@
+{
+  "name": "homeworkeight",
+  "version": "1.0.0",
+  "description": "## Link to deployed project: Site not deployed, for use in terminal. ## Description -README Generator is my eighth project for UC Davis' Web dev bootcamp. THe program takes in a series of user prompts through the terminal and generates a README.md file in the project repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristerran/homeworkEight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristerran/homeworkEight/issues"
+  },
+  "homepage": "https://github.com/Kristerran/homeworkEight#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.2"
+  }
+}
